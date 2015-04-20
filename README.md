@@ -1,2 +1,2 @@
 # tye
-Event Delegation Micro Library
+Micro Event Delegation Library 
