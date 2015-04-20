@@ -4,7 +4,10 @@ Micro Event Delegation Library
 
 ### Usage
 ```js
+// Using browserify
 var tye = require('tye');
+// or using the bundled file in dist
+<script src="/path/to/dist/bundle.min.js"></script>
 
 // Bind click event to document.body
 tye(document.body).on('click', someFunction);
