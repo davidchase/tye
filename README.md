@@ -1,5 +1,5 @@
 # tye
-Micro Event Delegation Library 
+Micro Event Delegation Module 
 
 
 ### Usage
