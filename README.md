@@ -25,4 +25,4 @@ This is a wrapper around [addEventListener](https://developer.mozilla.org/en-US/
 
 That allows for event delegation by using [element.matches](https://developer.mozilla.org/en-US/docs/Web/API/Element/matches)
 
-Thats it, very simple implementation.
+Thats it, very simple implementation. **2kb** minified
