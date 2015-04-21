@@ -1,0 +1,24 @@
+{
+  "name": "tye",
+  "version": "0.0.1",
+  "description": "Micro event delegation module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidchase/tye.git"
+  },
+  "keywords": [
+    "events",
+    "delegation",
+    "dom"
+  ],
+  "author": "David Chase <davidchase03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidchase/tye/issues"
+  },
+  "homepage": "https://github.com/davidchase/tye"
+}
