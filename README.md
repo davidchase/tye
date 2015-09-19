@@ -6,13 +6,13 @@ Micro Event Delegation Module
 ```js
 // Using browserify
 var tye = require('tye');
-// or using the bundled file in dist
+// or using the bundled file in dist bundled in UMD format
 <script src="/path/to/dist/bundle.min.js"></script>
 
 // Bind click event to document.body
 tye(document.body).on('click', someFunction);
 // Event Delegation:
-tye(document.body).on('click', '.my-class' someFunction);
+tye(document.body).on('click', '.my-class', someFunction);
 
 // Remove click binding from '.my-class'
 tye(document.body).off('click', '.my-class');
